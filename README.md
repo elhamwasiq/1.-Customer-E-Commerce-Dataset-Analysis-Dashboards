@@ -5,7 +5,7 @@ Tools: Excel · SQL · Power BI
 
 * Performed CLV & RFM analysis with SQL
 
-* Built Power BI dashboards showing:
+Built Power BI dashboards showing:
 
 1: Customer behavior
 
